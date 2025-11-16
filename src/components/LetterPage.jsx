@@ -129,7 +129,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.5 }}
             className="text-xl text-purple-200 leading-relaxed"
           >
-            You're so beautiful, but I still hurt you… I'm so sorry.💔
+            You're the best sister in the world. I'm so sorry that i am not good enoghh but mai try kra hu..💔
           </motion.p>
 
           <motion.p
@@ -138,7 +138,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.8 }}
             className="text-lg text-pink-200 leading-relaxed max-w-lg mx-auto"
           >
-            I know words can't undo what I did, but I need you to know that you mean everything to me. I've been thinking about all our beautiful moments together, and I realize how much I've hurt the most precious person in my life. I promise to do better, to be better, for you.✨
+            I need you to know that you mean everything to me. I promise to do better, to be better, for you didi ji..✨
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 10 }}
@@ -146,7 +146,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ delay: 3, duration: 0.8 }}
             className="text-pink-300 text-xl mt-6"
           >
-            Can you please forgive me…?💔
+            Can you please forgive me and mujhe chote bhai ki tarah mano and pyar se smjhaoo…?💔
           </motion.p>
 
         </motion.div>
