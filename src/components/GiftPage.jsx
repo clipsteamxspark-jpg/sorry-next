@@ -203,8 +203,7 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.6 }}
                       className="text-lg text-purple-200 leading-relaxed"
                     >
-                      Just like my love for you. I promise to cherish you every single day, and never take your
-                      beautiful heart for granted again.💖
+                       I promise to make you happy every singl day, and never hurt you.💖
                     </motion.p>
                     <motion.p
                       initial={{ opacity: 0, y: 15 }}
@@ -212,7 +211,7 @@ export default function GiftPage() {
                       transition={{ duration: 0.8, delay: 0.9 }}
                       className="text-xl text-pink-200"
                     >
-                      You mean everything to me💕✨
+                      Didi U mean everything to me💕✨
                     </motion.p>
                   </motion.div>
                 )}
