@@ -21,7 +21,7 @@ export default function LetterPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 0.3 }}
           className="text-2xl text-pink-300 mb-8 mt-10 md:mt-0"
         >
-          I've been staring at these all night…🌙
+          I've been sitting all the time and thinking...🌙
         </motion.h2>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
@@ -138,7 +138,7 @@ export default function LetterPage({ setCurrentPage }) {
             transition={{ duration: 0.8, delay: 1.8 }}
             className="text-lg text-pink-200 leading-relaxed max-w-lg mx-auto"
           >
-            I need you to know that you mean everything to me. I promise to do better, to be better, for you didi ji..✨
+            I need you to know that you mean everything to me. I promise to do better, to be better, for you Rashi didi ji..✨
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 10 }}
